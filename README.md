@@ -1,4 +1,4 @@
-#Nota:
+# Nota:
 El taller fue realizado sobre la plantilla de Angular Empty App disponible en los recursos del curso
 
 
