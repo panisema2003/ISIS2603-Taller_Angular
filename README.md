@@ -1,3 +1,7 @@
+#Nota:
+El taller fue realizado sobre la plantilla de Angular Empty App disponible en los recursos del curso
+
+
 # Mynewapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
